@@ -37,8 +37,9 @@
       
       
       npm run start:atomic:
-      0.1 Fund main account.
-      0.2 Install Keys Manager contract
+      
+      -- Fund main account.
+      --Install Keys Manager contract
       1. Set faucet's weight to 3
       2. Set Keys Management Threshold to 3
       3. Set Deploy Threshold to 2.
@@ -67,7 +68,10 @@
       
       ![16](https://user-images.githubusercontent.com/36465841/133790263-eab3eb1f-bf0c-4a6b-9800-6dfc47411540.png)
       
-      ![17](https://user-im![18](https://user-images.githubusercontent.com/36465841/133790283-68dfe63e-f585-4a40-9280-2362f1b95086.png)
+      ![17](https://user-images.githubusercontent.com/36465841/133791529-8f73990a-baee-42cf-b983-bc4d4b32f9e7.png)
+
+      
+      
       
       ![18](https://user-images.githubusercontent.com/36465841/133790313-055626c1-78c0-48b2-a1ba-8822ae56bd25.png)
 
