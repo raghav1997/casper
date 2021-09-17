@@ -102,7 +102,8 @@ Aditional scenario:lost keys
 
 ![2](https://user-images.githubusercontent.com/36465841/133790665-fa4c7ec8-ea85-44ea-8efa-448242b1fae6.png)
 
-![3](https://user-im![4](https://user-images.githubusercontent.com/36465841/133790681-18f063d1-1348-419e-a546-7dc50aaefede.png)
+
+![3](https://user-images.githubusercontent.com/36465841/133791735-5059d65a-4e9c-4442-961f-19d7faf63e4e.png)
 
 ![4](https://user-images.githubusercontent.com/36465841/133790708-3c4c88d6-fb88-43d7-ad05-e0b0958588cb.png)
 
